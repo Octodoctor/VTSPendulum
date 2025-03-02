@@ -10,7 +10,7 @@ a = Analysis(
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=['xml', 'xmlrpc', 'http'],
+    excludes=[],
     noarchive=False,
     optimize=0,
 )
